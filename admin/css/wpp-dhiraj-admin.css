@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .details_table {
+     width: 100%;
+     border: 1px solid;
+     padding: 5px;
+ }
